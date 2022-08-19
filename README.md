@@ -1,2 +1,13 @@
-# Dataa_analysis_project
-Using EXCEL , KPMG Data analysis work has been done
+# Data_analysis_project
+
+This is a Online Virtual Internship Platform called "FORAGE" , I had done with KPMG (Vehicle company ) with Customer Vehicle data ....
+
+
+In this Work , i had done data analysis work with MS-EXCEL , using " VLOOKUP", "PIVOT TABLE", "RFM VALUES" ...Techniques ....
+
+This Work is my First attempt to analyzed a data in my career  ,  i had took 3 days to Complete this work...
+
+
+
+Thank you ....
+
